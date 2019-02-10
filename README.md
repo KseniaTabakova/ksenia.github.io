@@ -28,5 +28,3 @@ I am also found of motocross, snowboarding and triathlon.
 
 
 
-#### *ksenia.github.io*
-
