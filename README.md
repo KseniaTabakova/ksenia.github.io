@@ -24,7 +24,7 @@ I am also found of motocross, snowboarding and triathlon.
 
 ## COMPLETED TASKS
 
-*(soon URL will be here)*
+-CODEWARS URL: https://www.codewars.com/users/ksusha100@tut.by/completed_solutions
 
 
 
