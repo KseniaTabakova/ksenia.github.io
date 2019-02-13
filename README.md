@@ -25,6 +25,8 @@ I am also found of motocross, snowboarding and triathlon.
 ## COMPLETED TASKS
 
 -CODEWARS URL: https://www.codewars.com/users/ksusha100@tut.by/completed_solutions
+-Solution for PADAWANS: 
+ Task_1 URL: https://github.com/ksusha100/PadawansTask1.git 
 
 
 
