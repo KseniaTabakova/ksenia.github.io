@@ -34,7 +34,7 @@ I am also found of motocross, snowboarding and triathlon.
  - Task_5 URL: https://github.com/ksusha100/PadawansTask5
  - Task_7 URL: https://github.com/ksusha100/PadawansTask7
  - Task_8 URL: https://github.com/ksusha100/PadawansTask8 (The second attempt at Padawans was the most successful; if it's possible protect it, please)
- 
+ - Task_6 URL: https://github.com/ksusha100/PadawansTask6
 
 
 
