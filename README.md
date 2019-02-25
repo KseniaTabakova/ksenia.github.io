@@ -27,6 +27,7 @@ I am also found of motocross, snowboarding and triathlon.
 -CODEWARS URL: https://www.codewars.com/users/Kiskedda/completed_solutions
 
 -Solution for PADAWANS:  
+ - FancyCalc URL: https://github.com/ksusha100/FancyCalc
  - Task_1 URL: https://github.com/ksusha100/PadawansTask1
  - Task_2 URL: https://github.com/ksusha100/PadawansTask2
  - Task_3 URL: https://github.com/ksusha100/PadawansTask3
