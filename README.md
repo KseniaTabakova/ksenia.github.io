@@ -35,6 +35,8 @@ I am also found of motocross, snowboarding and triathlon.
  - Task_6 URL: https://github.com/ksusha100/PadawansTask6 (In Padawans build failed, but locally everything works) 
  - Task_7 URL: https://github.com/ksusha100/PadawansTask7
  - Task_8 URL: https://github.com/ksusha100/PadawansTask8 (The second attempt at Padawans was the most successful; if it's possible protect it, please)
+ - Task_11 URL: https://github.com/ksusha100/PadawansTask11
+ 
  
 
 
