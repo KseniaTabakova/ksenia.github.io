@@ -24,22 +24,17 @@ I am also found of motocross, snowboarding and triathlon.
 
 ## COMPLETED TASKS
 
--CODEWARS URL: https://www.codewars.com/users/Kiskedda/completed_solutions
-
--Solutions for PADAWANS:  
- - FancyCalc URL: https://github.com/ksusha100/FancyCalc
- - Task_1 URL: https://github.com/ksusha100/PadawansTask1
- - Task_2 URL: https://github.com/ksusha100/PadawansTask2
- - Task_3 URL: https://github.com/ksusha100/PadawansTask3
- - Task_4 URL: https://github.com/ksusha100/PadawansTask4
- - Task_5 URL: https://github.com/ksusha100/PadawansTask5
- - Task_6 URL: https://github.com/ksusha100/PadawansTask6 (In Padawans build failed, but locally everything works) 
- - Task_7 URL: https://github.com/ksusha100/PadawansTask7
- - Task_8 URL: https://github.com/ksusha100/PadawansTask8 (The second attempt at Padawans was the most successful; if it's possible protect it, please)
- - Task_10 URL: https://github.com/ksusha100/PadawansTask10 (In Padawans build failed, but locally everything works)
- - Task_11 URL: https://github.com/ksusha100/PadawansTask11
- - Task_12 URL: https://github.com/ksusha100/PadawansTask12
- - Task_13 URL: https://github.com/ksusha100/PadawansTask13 (In Padawans build failed, but locally everything works)
-
-<a href="www.vk.com">ggg</a>
-
+- <a href="https://www.codewars.com/users/Kiskedda/">CODEWARS</a>  
+- <a href="https://github.com/ksusha100/FancyCalc">FancyCalc</a> 
+- <a href="https://github.com/ksusha100/PadawansTask1">PadawansTask1</a>  
+- <a href="https://github.com/ksusha100/PadawansTask2">PadawansTask2</a>  
+- <a href="https://github.com/ksusha100/PadawansTask3">PadawansTask3</a>  
+- <a href="https://github.com/ksusha100/PadawansTask4">PadawansTask4</a>
+- <a href="https://github.com/ksusha100/PadawansTask5">PadawansTask5</a>
+- <a href="https://github.com/ksusha100/PadawansTask6">PadawansTask6</a>
+- <a href="https://github.com/ksusha100/PadawansTask7">PadawansTask7</a>
+- <a href="https://github.com/ksusha100/PadawansTask8">PadawansTask8</a>
+- <a href="https://github.com/ksusha100/PadawansTask10">PadawansTask10</a>
+- <a href="https://github.com/ksusha100/PadawansTask11">PadawansTask11</a>
+- <a href="https://github.com/ksusha100/PadawansTask12">PadawansTask12</a>
+- <a href="https://github.com/ksusha100/PadawansTask13">PadawansTask13</a>
