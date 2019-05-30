@@ -22,23 +22,7 @@ I have always wondered how the computer appeared, how from "1" and "0" programmi
 
 I am also found of motocross, snowboarding and triathlon.
 
-## COMPLETED TASKS
+## CODEWARS PAGE
 
 - <a href="https://www.codewars.com/users/Kiskedda/">CODEWARS</a>  
-- <a href="https://github.com/ksusha100/FancyCalc">FancyCalc</a> 
-- <a href="https://github.com/ksusha100/PadawansTask1">PadawansTask1</a>  
-- <a href="https://github.com/ksusha100/PadawansTask2">PadawansTask2</a>  
-- <a href="https://github.com/ksusha100/PadawansTask3">PadawansTask3</a>  
-- <a href="https://github.com/ksusha100/PadawansTask4">PadawansTask4</a>
-- <a href="https://github.com/ksusha100/PadawansTask5">PadawansTask5</a>
-- <a href="https://github.com/ksusha100/PadawansTask6">PadawansTask6</a>
-- <a href="https://github.com/ksusha100/PadawansTask7">PadawansTask7</a>
-- <a href="https://github.com/ksusha100/PadawansTask8">PadawansTask8</a>
-- <a href="https://github.com/ksusha100/PadawansTask9">PadawansTask9</a>
-- <a href="https://github.com/ksusha100/PadawansTask10">PadawansTask10</a>
-- <a href="https://github.com/ksusha100/PadawansTask11">PadawansTask11</a>
-- <a href="https://github.com/ksusha100/PadawansTask12">PadawansTask12</a>
-- <a href="https://github.com/ksusha100/PadawansTask13">PadawansTask13</a>
-- <a href="https://github.com/ksusha100/PadawansTask15">PadawansTask15</a>
-- <a href="https://github.com/ksusha100/FibonacciNumbers">FibonacciNumbers</a>
-- <a href="https://github.com/ksusha100/Tic-tac-toe">Tic-tac-toe</a>
+
